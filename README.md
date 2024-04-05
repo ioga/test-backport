@@ -12,3 +12,5 @@ Another fix for 0.0
 Fix for 0.1
 
 Fix for 0.2
+
+Fix for 0.3
